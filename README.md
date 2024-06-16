@@ -1,1 +1,6 @@
 # chess
+Hi, I’m @Beksh44
+I’m currently learning machine learning/computer engineering 
+Currently doing a project of chess on a C++ language 
+Using SFML library for frontend 
+Planing on making game mode for two players to play on a same pc and game mode versus a simple ai,which i hope will be at the level of 300-400 elo
