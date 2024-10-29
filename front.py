@@ -15,6 +15,8 @@ blackPiecesPath = []
 tmpBlack = []
 
 
+#  TODO:иметь всегда вторую перевернутую версию доски, чтобы не делать логику отдельно для белых и отдельно для черных фигур
+
 # Prepare paths for pieces
 for i in range(16):
     tmpWhite.append("images/pieces-png/white-" + whitePieces[i] + ".png")
